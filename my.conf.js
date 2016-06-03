@@ -1,3 +1,4 @@
+/added karma-jasmine
 // Karma configuration
 // Generated on Fri Jun 03 2016 17:46:29 GMT-0400 (EDT)
 
