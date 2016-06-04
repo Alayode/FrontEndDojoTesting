@@ -1,6 +1,5 @@
-/added karma-jasmine
 // Karma configuration
-// Generated on Fri Jun 03 2016 17:46:29 GMT-0400 (EDT)
+// Generated on Fri Jun 03 2016 22:47:14 GMT-0400 (EDT)
 
 module.exports = function(config) {
   config.set({
@@ -16,7 +15,8 @@ module.exports = function(config) {
 
     // list of files / patterns to load in the browser
     files: [
-      'dist/*.js , test/*.js'
+      'dist/*.js ',
+      'tests/*.js'
     ],
 
 
